@@ -4,4 +4,4 @@ updates made on master remote before rebase
 
 ## REPOSITORY Purpose
 
-UPDATES made locally that will conflict with remote changes
+This file is just a readme file!
