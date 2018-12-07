@@ -1,5 +1,3 @@
 # website
 
-updated locally
-
-update on update-readme branch
+updates made on master remote before rebase
