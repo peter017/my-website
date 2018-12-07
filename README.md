@@ -1,3 +1,3 @@
-# my-website
+# website
 
 FIRST UPDATE
